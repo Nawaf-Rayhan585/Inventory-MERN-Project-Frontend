@@ -1,4 +1,4 @@
- 
+  
 
  
 ## <h1>MERN INVENTORY PROJECT</h1>
