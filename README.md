@@ -1,4 +1,4 @@
-
+ 
 ## <h1>MERN INVENTORY PROJECT</h1>
 ## <p>Frontend Part</p>
 ## <p>Backend Part: https://github.com/Nawaf-Rayhan585/Inventory-MERN-Project-Backend</p>
